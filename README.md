@@ -29,6 +29,6 @@ Here is the Alarm Page View:<br>
 To store all the alarms I used Flutter Local NO-SQL Database Library (Hive).<br>
 And for the notification, I used Flutter Local Notification Library.<br>
 Till Now, These are the features I am working with.<br>
-InShaaAllah, I will finish this project very soon.<br>
+I will finish this project very soon.<br>
 Thanks for your time.<br>
 😀😀😀
